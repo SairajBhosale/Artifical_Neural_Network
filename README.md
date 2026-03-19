@@ -162,3 +162,5 @@ This project is for educational purposes.
 - Dataset source: Churn Modelling Dataset
 - TensorFlow/Keras documentation
 - Deep learning community resources
+
+**This README is AI generated**
